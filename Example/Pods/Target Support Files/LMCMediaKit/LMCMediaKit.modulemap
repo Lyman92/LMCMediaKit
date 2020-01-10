@@ -1,0 +1,6 @@
+framework module LMCMediaKit {
+  umbrella header "LMCMediaKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
